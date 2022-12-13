@@ -40,5 +40,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Ricardo Nozaki](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)
+[![Linkedin: Ricardo Nozaki](https://img.shields.io/badge/-Ricardo-Nozaki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)](https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)
 [![GitHub Ricardo Nozaki]( https://img.shields.io/github/followers/Rickazuo?label=follow&style=social)](LINK-DO-SEU-GITHUB)
